@@ -1,0 +1,24 @@
+2023/08/22-08:16:50.764 1113fb Reusing MANIFEST /home/eirik/.config/Prospect Mail/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/22-08:16:50.765 1113fb Recovering log #10
+2023/08/22-08:16:50.766 1113fb Reusing old log /home/eirik/.config/Prospect Mail/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000010.log 
+2023/08/22-08:16:53.613 111267 Level-0 table #14: started
+2023/08/22-08:16:53.620 111267 Level-0 table #14: 603 bytes OK
+2023/08/22-08:16:53.628 111267 Delete type=0 #10
+2023/08/22-08:16:53.629 111267 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 118 : 1
+2023/08/22-08:16:53.629 111267 Compacting 1@0 + 1@1 files
+2023/08/22-08:16:53.631 111267 Generated table #15@0: 40 keys, 5702 bytes
+2023/08/22-08:16:53.631 111267 Compacted 1@0 + 1@1 files => 5702 bytes
+2023/08/22-08:16:53.634 111267 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/22-08:16:53.635 111267 Delete type=2 #14
+2023/08/22-08:16:53.635 111268 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 118 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/22-08:16:53.662 1113fb Level-0 table #17: started
+2023/08/22-08:16:53.664 1113fb Level-0 table #17: 486 bytes OK
+2023/08/22-08:16:53.668 1113fb Delete type=2 #11
+2023/08/22-08:16:53.668 1113fb Delete type=0 #13
+2023/08/22-08:16:53.670 1113fb Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 144 : 0
+2023/08/22-08:16:53.670 1113fb Compacting 1@0 + 1@1 files
+2023/08/22-08:16:53.673 1113fb Generated table #18@0: 39 keys, 5655 bytes
+2023/08/22-08:16:53.673 1113fb Compacted 1@0 + 1@1 files => 5655 bytes
+2023/08/22-08:16:53.682 1113fb compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/22-08:16:53.683 1113fb Delete type=2 #17
+2023/08/22-08:16:53.683 1113fb Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 144 : 0 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

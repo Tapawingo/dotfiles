@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+/home/eirik/.local/bin/winapps iexplore.exe iexplore.exe ico
+

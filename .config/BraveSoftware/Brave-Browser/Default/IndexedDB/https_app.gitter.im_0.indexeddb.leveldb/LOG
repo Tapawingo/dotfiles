@@ -1,0 +1,10 @@
+2023/08/20-16:01:14.310 25392 Creating DB /home/eirik/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.gitter.im_0.indexeddb.leveldb since it was missing.
+2023/08/20-16:01:14.316 25392 Reusing MANIFEST /home/eirik/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.gitter.im_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/20-16:01:15.626 25396 Level-0 table #5: started
+2023/08/20-16:01:15.628 25396 Level-0 table #5: 3051 bytes OK
+2023/08/20-16:01:15.635 25396 Delete type=0 #3
+2023/08/20-16:01:15.635 25392 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/20-16:01:15.636 25396 Level-0 table #7: started
+2023/08/20-16:01:15.640 25396 Level-0 table #7: 532 bytes OK
+2023/08/20-16:01:15.643 25396 Delete type=0 #4
+2023/08/20-16:01:15.644 25392 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

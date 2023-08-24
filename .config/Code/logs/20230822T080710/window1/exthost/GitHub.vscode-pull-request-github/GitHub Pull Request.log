@@ -1,0 +1,5 @@
+2023-08-22 08:07:17.466 [warning] /home/eirik/.ssh/config: ENOENT: no such file or directory, open '/home/eirik/.ssh/config'
+2023-08-22 08:07:18.381 [info] Looking for git repository
+2023-08-22 08:07:18.381 [info] Found 0 repositories during activation
+2023-08-22 08:07:18.381 [info] Git repository found, initializing review manager and pr tree view.
+2023-08-22 08:07:29.210 [info] Registering git provider

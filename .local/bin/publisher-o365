@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+/home/eirik/.local/bin/winapps publisher-o365 publisher-o365 svg
+

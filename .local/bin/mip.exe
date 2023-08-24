@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+/home/eirik/.local/bin/winapps mip.exe mip.exe ico
+

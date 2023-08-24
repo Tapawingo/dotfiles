@@ -1,0 +1,7 @@
+2023/08/20-18:54:27.448 25392 Reusing MANIFEST /home/eirik/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_vim.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/20-18:54:27.449 25392 Recovering log #3
+2023/08/20-18:54:27.449 25392 Reusing old log /home/eirik/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_vim.fandom.com_0.indexeddb.leveldb/000003.log 
+2023/08/20-18:54:35.640 25393 Level-0 table #5: started
+2023/08/20-18:54:35.641 25393 Level-0 table #5: 5555 bytes OK
+2023/08/20-18:54:35.643 25393 Delete type=0 #3
+2023/08/20-18:54:35.643 25393 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

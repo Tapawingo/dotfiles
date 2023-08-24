@@ -1,0 +1,10 @@
+2023-08-20 23:16:14.623 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-08-20 23:16:14.623 [info] Auto Sync is enabled.
+2023-08-20 23:16:14.623 [info] Auto Sync: Suspended until auth token is available.
+2023-08-20 23:16:16.656 [info] Deleting non existing profile from backup /home/eirik/.config/Code/User/sync/extensions
+2023-08-20 23:16:17.761 [info] Deleting non existing profile from backup /home/eirik/.config/Code/User/sync/globalState
+2023-08-20 23:16:18.482 [info] Deleting non existing profile from backup /home/eirik/.config/Code/User/sync/keybindings
+2023-08-20 23:16:18.726 [info] Deleting non existing profile from backup /home/eirik/.config/Code/User/sync/profiles
+2023-08-20 23:16:18.860 [info] Deleting non existing profile from backup /home/eirik/.config/Code/User/sync/settings
+2023-08-20 23:16:19.047 [info] Deleting non existing profile from backup /home/eirik/.config/Code/User/sync/snippets
+2023-08-20 23:16:19.162 [info] Deleting non existing profile from backup /home/eirik/.config/Code/User/sync/tasks

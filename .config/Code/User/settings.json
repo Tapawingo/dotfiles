@@ -1,0 +1,150 @@
+{
+  "java.help.firstView": "gettingStarted",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.refactor.renameFromFileExplorer": "autoApply",
+    "remote.SSH.remotePlatform": {
+      "185.81.164.218": "linux",
+      "38.242.156.139": "linux",
+      "173.249.0.87": "linux"
+    },
+    "editor.detectIndentation": false,
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "vscode-neovim.neovimExecutablePaths.win32": "C:\\tools\\neovim\\Neovim\\bin\\nvim.exe",
+    "workbench.colorCustomizations": {
+      "activityBarBadge.background": "#ffc600",
+      "editorCursor.foreground": "#ffc600",
+      "inputValidation.errorBorder": "#ffc600",
+      "panel.border": "#ffc600",
+      "panelTitle.activeBorder": "#ffc600",
+      "panelTitle.activeForeground": "#ffc600",
+      "peekView.border": "#ffc600",
+      "peekViewTitleLabel.foreground": "#ffc600",
+      "tab.activeBorder": "#ffc600",
+      "statusBar.border": "#ffc600"
+  },
+  "workbench.colorTheme": "Community Material Theme Darker",
+  "retroassembler.path": "./bin/assembler/beebasm.exe",
+  "beebvsc.assembler": "C:\\6502_assembly\\assembler\\beebasm.exe",
+  "beebvsc.emulator": "\"C:\\6502_assembly\\BeebEm\\BeebEm.exe\"",
+  "editor.minimap.enabled": false,
+  "enableTelemetry": false,
+  "include": "**/*.{ts,js,php,css,scss,html,sqf}",
+  "sqf.enableCBA": true,
+  "todo-tree.highlights.customHighlight": {
+    "@TODO": {
+        "foreground": "white",
+        "background": "rgb(29, 89, 48)",
+        "iconColour": "rgb(29, 89, 48)",
+        "type": "text-and-comment"
+    },
+    "@FIXME": {
+        "foreground": "black",
+        "background": "rgb(149, 144, 48)",
+        "iconColour": "rgb(149, 144, 48)",
+        "type": "text-and-comment"
+    },
+    "@BUG": {
+      "foreground": "white",
+      "background": "rgb(86, 20, 18)",
+      "iconColour": "rgb(86, 20, 18)",
+      "type": "text-and-comment"
+    },
+    "@HACK": {
+      "foreground": "black",
+      "background": "rgb(33, 76, 201)",
+      "iconColour": "rgb(33, 76, 201)",
+      "type": "text-and-comment"
+    },
+    "@FIX": {
+      "foreground": "white",
+      "background": "rgb(255, 128, 0)",
+      "iconColour": "rgb(255, 128, 0)",
+      "type": "text-and-comment"
+    },
+    "@[ ]": {
+      "foreground": "white",
+      "background": "rgb(128, 128, 128)",
+      "iconColour": "rgb(128, 128, 128)",
+      "type": "text-and-comment"
+    },
+    "@[X]": {
+      "foreground": "white",
+      "background": "rgb(29, 89, 48)",
+      "iconColour": "rgb(29, 89, 48)",
+      "type": "text-and-comment"
+    },
+    "@[~]": {
+      "foreground": "white",
+      "background": "rgb(255, 128, 0)",
+      "iconColour": "rgb(255, 128, 0)",
+      "type": "text-and-comment"
+  },
+},
+"sqf.enableACE3": true,
+"sqflint.ignoredVariables": [
+  "_y",
+  "ce_doors_menuStyle",
+  "ce_doors_detonatorStyle"
+],
+"todo-tree.general.tags": [
+  "@BUG",
+  "@HACK",
+  "@FIXME",
+  "@TODO",
+  "@XXX",
+  "@FIX",
+  "@[ ]",
+  "@[X]",
+  "@[~]"
+],
+"todo-tree.highlights.backgroundColourScheme": [
+  "red",
+  "orange",
+  "yellow",
+  "green",
+  "blue"
+],
+"workbench.iconTheme": "material-icon-theme",
+"workbench.sideBar.location": "right",
+"glassit.alpha": 220,
+"css.lint.unknownAtRules": "ignore",
+"markdown-preview-enhanced.previewTheme": "github-dark.css",
+"terminal.external.windowsExec": "C:\\Program Files (x86)\\ConEmu\\ConEmu.exe",
+"terminal.integrated.defaultProfile.windows": "Command Prompt",
+"terminal.integrated.profiles.windows": {
+
+  "PowerShell": {
+    "source": "PowerShell",
+    "icon": "terminal-powershell"
+  },
+  "Command Prompt": {
+    "path": [
+      "${env:windir}\\Sysnative\\cmd.exe",
+      "${env:windir}\\System32\\cmd.exe"
+    ],
+    "args": [],
+    "icon": "terminal-cmd"
+  },
+  "Git Bash": {
+    "source": "Git Bash"
+  }
+},
+"arduino.useArduinoCli": true,
+"window.restoreWindows": "none",
+"java.home": "C:\\Users\\Eirik\\AppData\\Local\\Programs\\AdoptOpenJDK\\jdk-11.0.10.9-hotspot",
+"remote.SSH.configFile": "C:\\Users\\Eirik\\.ssh\\config",
+"[python]": {
+  "editor.formatOnType": true
+},
+"todomd.activatePattern": "**/{todo,TODO,someday,todo.archive}.md",
+"todomd.defaultFile": "p:\\z\\cen\\todo.md",
+"workbench.startupEditor": "none",
+"git.autofetch": true
+}

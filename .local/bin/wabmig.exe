@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+/home/eirik/.local/bin/winapps wabmig.exe wabmig.exe ico
+

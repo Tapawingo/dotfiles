@@ -1,0 +1,10 @@
+# GIMP action-history
+
+(history-item "file-open-as-layers" 0)
+(history-item "tools-scale" 0)
+(history-item "view-scroll-page-up" 0)
+(history-item "tools-move" 0)
+(history-item "file-overwrite" 0)
+(history-item "file-quit" 1)
+
+# end of action-history

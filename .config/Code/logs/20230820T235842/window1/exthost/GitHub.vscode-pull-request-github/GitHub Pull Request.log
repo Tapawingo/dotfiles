@@ -1,0 +1,19 @@
+2023-08-20 23:58:48.343 [warning] /home/eirik/.ssh/config: ENOENT: no such file or directory, open '/home/eirik/.ssh/config'
+2023-08-20 23:58:49.411 [info] Looking for git repository
+2023-08-20 23:58:49.411 [info] Found 0 repositories during activation
+2023-08-20 23:58:49.411 [info] Git repository found, initializing review manager and pr tree view.
+2023-08-20 23:58:49.417 [info] Registering git provider
+2023-08-20 23:58:49.417 [info] Review> Validate state in progress
+2023-08-20 23:58:49.417 [info] Review> Validating state...
+2023-08-20 23:58:49.626 [info] Found GitHub remote for folder /home/eirik/Development/tapawingo.github.io
+2023-08-20 23:58:50.750 [info] Repo state for file:///home/eirik/Development/tapawingo.github.io changed.
+2023-08-20 23:58:50.750 [info] Repo file:///home/eirik/Development/tapawingo.github.io has already been setup.
+2023-08-20 23:58:50.756 [info] Review> No matching pull request metadata found locally for current branch master
+2023-08-20 23:58:50.756 [info] Review> no matching pull request metadata found for current branch master
+2023-08-20 23:58:51.458 [info] Review> No matching pull request metadata found on GitHub for current branch master
+2023-08-20 23:59:00.348 [info] Review> Validate state in progress
+2023-08-20 23:59:00.348 [info] Review> Validating state...
+2023-08-20 23:59:00.385 [info] Found GitHub remote for folder /home/eirik/Development/tapawingo.github.io
+2023-08-20 23:59:00.549 [info] Review> No matching pull request metadata found locally for current branch master
+2023-08-20 23:59:00.549 [info] Review> no matching pull request metadata found for current branch master
+2023-08-20 23:59:00.903 [info] Review> No matching pull request metadata found on GitHub for current branch master

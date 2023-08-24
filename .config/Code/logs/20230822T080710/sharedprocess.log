@@ -1,0 +1,51 @@
+2023-08-22 08:07:17.860 [error] [uncaught exception in sharedProcess]: net::ERR_ADDRESS_UNREACHABLE: Error: net::ERR_ADDRESS_UNREACHABLE
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-08-22 08:07:23.448 [info] Getting Manifest... github.copilot
+2023-08-22 08:07:23.450 [info] Getting Manifest... ms-vscode.cpptools
+2023-08-22 08:07:23.452 [info] Getting Manifest... ms-vscode.remote-server
+2023-08-22 08:07:23.454 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2023-08-22 08:07:23.497 [info] Installing extension: github.copilot
+2023-08-22 08:07:23.520 [info] Installing extension: ms-vscode.cpptools
+2023-08-22 08:07:23.524 [info] Installing extension: ms-vscode.remote-server
+2023-08-22 08:07:23.527 [info] Installing extension: ms-vsliveshare.vsliveshare
+2023-08-22 08:07:30.010 [error] Error while installing the extension: github.copilot
+2023-08-22 08:07:30.034 [error] Failed to install extension. github.copilot
+2023-08-22 08:07:30.034 [error] Download: net::ERR_ADDRESS_UNREACHABLE
+    at $t.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:135892)
+    at async ee.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:20021)
+    at async ee.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:18112)
+2023-08-22 08:07:30.036 [error] [uncaught exception in sharedProcess]: net::ERR_ADDRESS_UNREACHABLE: Download: net::ERR_ADDRESS_UNREACHABLE
+    at $t.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:135892)
+    at async ee.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:20021)
+    at async ee.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:18112)
+2023-08-22 08:07:30.041 [error] Error while installing the extension: ms-vscode.cpptools
+2023-08-22 08:07:30.046 [error] Failed to install extension. ms-vscode.cpptools
+2023-08-22 08:07:30.048 [error] Download: net::ERR_ADDRESS_UNREACHABLE
+    at $t.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:135892)
+    at async ee.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:20021)
+    at async ee.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:18112)
+2023-08-22 08:07:30.049 [error] [uncaught exception in sharedProcess]: net::ERR_ADDRESS_UNREACHABLE: Download: net::ERR_ADDRESS_UNREACHABLE
+    at $t.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:135892)
+    at async ee.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:20021)
+    at async ee.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:18112)
+2023-08-22 08:07:30.051 [error] Error while installing the extension: ms-vsliveshare.vsliveshare
+2023-08-22 08:07:30.058 [error] Failed to install extension. ms-vsliveshare.vsliveshare
+2023-08-22 08:07:30.062 [error] Download: net::ERR_ADDRESS_UNREACHABLE
+    at $t.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:135892)
+    at async ee.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:20021)
+    at async ee.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:18112)
+2023-08-22 08:07:30.062 [error] [uncaught exception in sharedProcess]: net::ERR_ADDRESS_UNREACHABLE: Download: net::ERR_ADDRESS_UNREACHABLE
+    at $t.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:135892)
+    at async ee.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:20021)
+    at async ee.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:18112)
+2023-08-22 08:07:30.064 [error] Error while installing the extension: ms-vscode.remote-server
+2023-08-22 08:07:30.066 [error] Failed to install extension. ms-vscode.remote-server
+2023-08-22 08:07:30.067 [error] Download: net::ERR_ADDRESS_UNREACHABLE
+    at $t.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:135892)
+    at async ee.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:20021)
+    at async ee.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:18112)
+2023-08-22 08:07:30.068 [error] [uncaught exception in sharedProcess]: net::ERR_ADDRESS_UNREACHABLE: Download: net::ERR_ADDRESS_UNREACHABLE
+    at $t.download (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:135892)
+    at async ee.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:20021)
+    at async ee.h (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:92:18112)
