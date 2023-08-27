@@ -1,7 +1,7 @@
 # Directories #
 ncmpcpp_directory = ~/.config/ncmpcpp
 lyrics_directory  = ~/.local/share/lyrics
-mpd_music_dir     = ~/mus
+mpd_music_dir     = ~/music
 
 lyrics_fetchers = musixmatch
 

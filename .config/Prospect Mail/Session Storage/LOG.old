@@ -1,5 +1,0 @@
-2023/08/20-22:34:20.543 162766 Creating DB /home/eirik/.config/Prospect Mail/Session Storage since it was missing.
-2023/08/20-22:34:20.548 162766 Reusing MANIFEST /home/eirik/.config/Prospect Mail/Session Storage/MANIFEST-000001
-2023/08/20-22:35:20.550 162769 Level-0 table #5: started
-2023/08/20-22:35:20.552 162769 Level-0 table #5: 45371 bytes OK
-2023/08/20-22:35:20.554 162769 Delete type=0 #3

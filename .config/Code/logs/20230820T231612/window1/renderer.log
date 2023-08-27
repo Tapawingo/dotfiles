@@ -1,8 +1,0 @@
-2023-08-20 23:16:14.889 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
-package.json (LOSES): inlineCompletionsAdditions, terminalDataWriteEvent
-product.json (WINS): inlineCompletionsAdditions
-2023-08-20 23:16:14.980 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
-2023-08-20 23:16:14.983 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
-2023-08-20 23:16:16.944 [info] [perf] Render performance baseline is 97ms
-2023-08-20 23:16:18.231 [error] [Extension Host] (node:1693548) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `exe --trace-deprecation ...` to show where the warning was created)
